@@ -1,6 +1,16 @@
 # Welcome to Nodebots!
 Before constructing the nodebot, there are three wiring exercises to help you get familiar using servo motors and the particle device.
 
+## Parts List
+- [Particle Photon](https://store.particle.io/)
+- 2x continously rotating servos [SM-S4306R](https://www.bananarobotics.com/shop/SpringRC-SM-S4306R-Standard-Continuous-Rotation-Servo-41g?search=4306R)
+- [Mini 170 point breadboard](https://www.bananarobotics.com/shop/Prototyping/Mini-170-Point-Black-Breadboard)
+- Wood trim board (Menards/Home Depot)
+- Mini caster wheel (Menards/Home Depot)
+- #6 screws (Menards/Home Depot)
+- [4xAA Battery Pack](https://www.bananarobotics.com/shop/Power/4AA-Battery-Holder)
+- 2 tip ties (Menards/Home Depot)
+
 ## Code
 All the code is located on github at [https://github.com/blackjk3/nodebotsday](https://github.com/blackjk3/nodebotsday).  If you are uncomfortatble using git, you can download the zip file [here](https://github.com/blackjk3/nodebotsday/archive/v0.1.zip).  After you have obtained the code, in a command prompt navigate to the nodebotsday folder and run the following commands.
 
