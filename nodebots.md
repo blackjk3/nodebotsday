@@ -2,7 +2,7 @@
 Before constructing the nodebot, there are three wiring exercises to help you get familiar using servo motors and the particle device.
 
 ## Code
-All the code is located on github at [https://github.com/blackjk3/nodebotsday](https://github.com/blackjk3/nodebotsday).  If you are uncomfortatble using git, you can download the zip file [here]().  After you have obtained the code, in a command prompt navigate to the nodebotsday folder and run the following commands.
+All the code is located on github at [https://github.com/blackjk3/nodebotsday](https://github.com/blackjk3/nodebotsday).  If you are uncomfortatble using git, you can download the zip file [here](https://github.com/blackjk3/nodebotsday/archive/v0.1.zip).  After you have obtained the code, in a command prompt navigate to the nodebotsday folder and run the following commands.
 
 ```bash
 $ npm install --save johnny-five
