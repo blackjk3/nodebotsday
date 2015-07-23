@@ -17,6 +17,13 @@ The dc motors in your kit are a standard hobby motor.  The motor draws too much 
 To get started we are going to setup an led and make it blink.  Hook up the led to the breadboard like below.  The long end goes into D7 and the short end goes to GND.
 ![](boats/led-scene.gif)
 
+Now that the circuit is setup, open the start-led.js JavaScript file. In order to establish a connection to the board, you will in the file you will need to replace "process.env.SPARK_DEVICE_ID" with the device_id obtained earlier.  You will also need to replace "process.env.SPARK_TOKEN" with the access_token which is written on the whiteboard.
+
+```bash
+deviceId: 'MY_DEVICE_ID', // This is the device_id for YOUR specific particle
+token: 'ACCESS_TOKEN_FROM_BOARD' // This should be on the board as "access_token"
+```
+
 To run the example navigate to the "1-start-led" folder in a command prompt and type
 
 ```bash
