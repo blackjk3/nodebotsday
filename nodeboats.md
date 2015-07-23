@@ -87,5 +87,4 @@ Wire up the motor and battery pack and run the final example.  Spacebar will tur
 $ node boat-motor-final
 ```
 
-
-
+## 9 - Decorate the boat and give it a test in the pool!

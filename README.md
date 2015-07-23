@@ -68,6 +68,7 @@ ph2 [DEVICE_ID] (Photon) is online
 You are now ready to begin.  Follow the your track below to get started.
 - [Nodebots](nodebots.md)
 - [Nodeboats](nodeboats.md)
+- [Nodecopter](nodecopter.md)
 
 If your particle is NOT working as intended there are some links here which might be helpful.
 - [Connecting to your Particle Core](http://docs.particle.io/photon/connect/)
