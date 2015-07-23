@@ -2,7 +2,12 @@
 Before constructing the nodebot, there are three wiring exercises to help you get familiar using servo motors and the particle device.
 
 ## Code
-All the code is located on github at [https://github.com/blackjk3/nodebotsday](https://github.com/blackjk3/nodebotsday).  If you are uncomfortatble using git, you can download the zip file [here]().
+All the code is located on github at [https://github.com/blackjk3/nodebotsday](https://github.com/blackjk3/nodebotsday).  If you are uncomfortatble using git, you can download the zip file [here]().  After you have obtained the code, in a command prompt navigate to the nodebotsday folder and run the following commands.
+
+```bash
+$ npm install --save johnny-five
+$ npm install --save particle-io
+```
 
 ## Motors
 
@@ -69,3 +74,16 @@ Fasten the caster wheel using two small screws to the back holes.
 ![](bots/bot-front-wheel.jpg)
 
 ## Step 4 - Secure breadboard and battery pack
+Secure the breadboard and battery pack to the wood with tape.
+
+# Final Code - Keyboard Control
+To control the bot with the keyboard, navigate to the "4-bot-keyboard" example.  Run the example, and you should be able to control the bot by pressing the up, down, left, right, and spacebar keys.
+
+```bash
+$ node bot-keyboard
+```
+
+# Extra Credit - Add additional sensors
+There are a couple of other sensors available to use. Come up to the front desk for more information.  We have wiimotes, ultrasonic sensors and more.
+
+Note: If you use the wiimote there is a "5-bot-wiimote" example for mac.
