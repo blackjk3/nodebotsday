@@ -1,6 +1,20 @@
 # Welcome to Nodeboats!
 Before constructing the nodeboat, there is a wiring exercise to help you get familiar using the particle device.
 
+## Parts List
+- [Particle Photon](https://store.particle.io/)
+- [1 DC motor](http://www.adafruit.com/products/711)
+- [Small 400 point breadboard](https://www.bananarobotics.com/shop/Prototyping/Small-400-Point-White-Breadboard)
+- [TIP 120 Transistor](http://www.adafruit.com/products/976)
+- [330 ohm Resistor](https://www.sparkfun.com/products/11507)
+- [4xAA Battery Pack](https://www.bananarobotics.com/shop/Power/4AA-Battery-Holder)
+- [1N Diode](https://www.sparkfun.com/products/8589)
+- [GoGo Squeez Top](http://www.walmart.com/ip/GoGo-SqueeZ-Apple-Mango-Applesauce-On-the-Go-3.2-oz-4-count/21501736?action=product_interest&action_type=title&item_id=21501736&placement_id=irs-106-m1&strategy=PWVAV&visitor_id&category=&client_guid=f4ff32d6-2eef-4ea4-927b-fa9a4cc26211&customer_id_enc&config_id=106&parent_item_id=19476506&parent_anchor_item_id=19476506&guid=be2b6f07-488d-443e-a6da-e2e08d72c6e2&bucket_id=irsbucketdefault&beacon_version=1.0.1&findingMethod=p13n)
+- Plumbers putty (Menards/Home Depot)
+- Milk carton (Target)
+- Noodle or other foam material (Target)
+- Duct tape (Target)
+
 ## Code
 All the code is located on github at [https://github.com/blackjk3/nodebotsday](https://github.com/blackjk3/nodebotsday).  If you are uncomfortatble using git, you can download the zip file [here](https://github.com/blackjk3/nodebotsday/archive/v0.1.zip).  After you have obtained the code, in a command prompt navigate to the nodebotsday folder and run the following commands.
 
