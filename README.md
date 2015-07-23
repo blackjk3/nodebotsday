@@ -1,4 +1,7 @@
-# Nodebots Day
+# Nodebots Day!
+
+![](nodebots.png)
+
 Your particle should be all flashed and ready to go.  However, you will need to setup a few things on the laptop you are coding with to get up and running.
 
 ## Installing Node
