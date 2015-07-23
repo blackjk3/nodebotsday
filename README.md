@@ -37,15 +37,15 @@ $  particle login
 ```
 
 ## Setting up wifi
-** Note: the devices should connect to the Nodebots wifi automatically.  If after 30 sec your particle is not "breathing cyan", then do the steps below.  Otherwise, ignore this step and move on.**
+**Note: the devices should connect to the Nodebots wifi automatically.  If after 30 sec your particle is not "breathing cyan", then do the steps below.  Otherwise, ignore this step and move on.**
 
 Time to plug in the device and connect to the wifi.  Connect the usb cable to the particle device and the main led light should start blinking.  When it "breathing cyan" the device is connected to wifi.  Most likely it will be blinking green.  This means it needs to be configured for the wifi.  Hold done the mode button until it blinks blue and then release.  The particle should now be in "listening mode" and you can run the setup command below to connect to the wifi.
 
 ```bash
-$  particle setup wifi
+$  particle setup
 ? Should I scan for nearby Wi-Fi networks? No
 ? SSID: Nodebot
-? Security Type: WPA2
+? Security Type: WPA2 AES
 ? Wi-Fi Password: **********
 ...
 Thanks! Wait while I save those credentials...

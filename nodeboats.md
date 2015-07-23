@@ -79,7 +79,7 @@ $ node boat-motor
 The motor should spin for 4 seconds and then shut off.  Now that you have confirmed the motor works, time to finish up the boat!
 
 ## 8 - Finalize the boat
-Disconnect motor and battery from curcuit. Push the motor tip into the hole in the cap. Use duct tape to secure motor to the inside of the milk carton. Once the motor is secure, push the pen shaft onto the end of the motor tip.
+Disconnect motor and battery from the circuit. Push the motor tip into the hole in the cap. Screw on cap and use duct tape to secure motor to the inside of the milk carton. Once the motor is secure, push the pen shaft onto the end of the motor tip.
 
 Wire up the motor and battery pack and run the final example.  Spacebar will turn off the motor, and the up arrow will turn it on again.
 
