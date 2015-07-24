@@ -61,7 +61,7 @@ Once the circuit is wired up, you can open the JavaScript file "bot-two-motors.j
 $ node bot-two-motors
 ```
 
-## Example 2 - Two motors w/ battery
+## Example 3 - Two motors w/ battery
 Now that we have two motors working, we can power the whole setup using 4 X AA batteries.  Add the battery pack like the diagram below.
 
 ![](bots/3-two-motors-w-battery/bot-two-motors-battery.png)
